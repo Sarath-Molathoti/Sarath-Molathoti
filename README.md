@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👨‍🎓I am Sarath Molathoti, currently working as a Deputy Engineer at BEL.
+👨‍🎓 I am Sarath Molathoti, currently working as a Deputy Engineer at BEL.
 
-💻I am a full-stack web developer
+💻 I am a full-stack web developer
 
-📝✏️I am familiar with Html5, CSS, JavaScript, TypeScript, PHP, TeX, Ruby, OCaml, Shell Scripting, Linux, Git, Bootstrap4, MySQL, PostgreSQL, React, Angular, Material UI, C, C++, Java, Python, SpringBoot, Jpa, DevOps, Figma and Andriod Studio
+✏️ I am familiar with Html5, CSS, JavaScript, TypeScript, PHP, TeX, Ruby, OCaml, Shell Scripting, Linux, Git, Bootstrap4, MySQL, PostgreSQL, React, Angular, Material UI, C, C++, Java, Python, SpringBoot, Jpa, DevOps, Figma and Andriod Studio
 
 ⚡ Fun fact: print(" ")
 
