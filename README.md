@@ -6,7 +6,7 @@
 
 📝✏️I am familiar with Html5, CSS, JavaScript, TypeScript, PHP, TeX, Ruby, OCaml, Shell Scripting, Linux, Git, Bootstrap4, MySQL, PostgreSQL, React, Angular, Material UI, C, C++, Java, Python, SpringBoot, Jpa, DevOps, Figma and Andriod Studio
 
-⚡ Fun fact: (WE || false)
+⚡ Fun fact: print(" ")
 
 <!--
 **Sarath-Molathoti/Sarath-Molathoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
