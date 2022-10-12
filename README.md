@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 👨‍🎓I am Sarath Molathoti, currently working as a Deputy Engineer at BEL.
+
 💻I am a full-stack web developer
 
 <!--
