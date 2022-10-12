@@ -1,4 +1,6 @@
 ### Hi there 👋
+👨‍🎓I am Sarath Molathoti, currently working as a Deputy Engineer at BEL.
+💻I am a full-stack web developer
 
 <!--
 **Sarath-Molathoti/Sarath-Molathoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
