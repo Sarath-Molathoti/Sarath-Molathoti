@@ -8,7 +8,7 @@
 
 📫 Currently, I'm deeply engaged in React, Java, Spring Boot, DevOps, Flutter, Figma, and Material UI, crafting innovative solutions and seamless user experiences.
 
-⚡ Fun fact: print(" ")
+⚡ Fun fact: Reality is absolute, and so is your code.
 
 <!--
 **Sarath-Molathoti/Sarath-Molathoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
