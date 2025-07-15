@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍🎓 At BEL, I hold the esteemed position of Deputy Engineer, where I contribute my expertise to the company's innovative endeavors. 
+👨‍🎓 At BEL, I hold the esteemed position of Senior Engineer, where I contribute my expertise to the company's innovative endeavors. 
 
 💻 I am a full-stack web developer
 
