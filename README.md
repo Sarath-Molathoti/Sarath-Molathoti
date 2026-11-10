@@ -1,14 +1,13 @@
 # Hi there, I'm Sarath Molathoti 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Senior+Engineer+%40+BEL;Full+Stack+Web+Developer;5%2B+Years+of+Experience;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Web+Developer;5%2B+Years+of+Experience;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
 
-I'm a **Senior Engineer at Bharat Electronics Limited (BEL)**, where I contribute to innovative projects that drive technological advancement. With over 5 years of experience in software development, I specialize in building scalable web applications and creating seamless user experiences.
+I'm a Software Developer with over 6 years of experience in software development. I specialize in building scalable web applications, developing robust backend systems, and creating seamless user experiences. I'm passionate about exploring new technologies, solving complex problems, and continuously improving my technical skills.
 
-- 🔭 Currently working on cutting-edge projects at BEL
 - 🌱 Learning and mastering **React**, **Java Spring Boot**, **DevOps**, **Flutter**, and **Figma**
 - 💡 Philosophy: *"There are no miracles in code or in life - only causes you haven't identified yet."*
 - 📍 Based in Bengaluru, India
